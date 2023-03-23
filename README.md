@@ -1,8 +1,8 @@
 # README
 
-# RIA1_TDD_TRAINING
+# MA-24_TDD_TRAINING
 
-RIA1_TDD_TRAINING est un projet permettant d'entraîner le TDD en JavaScript.
+MA-24_TDD_TRAINING est un projet permettant d'entraîner le TDD en JavaScript.
 
 ## Installation
 
